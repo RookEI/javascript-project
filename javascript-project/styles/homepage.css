@@ -1,0 +1,19 @@
+.main-menu {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.main-menu > h3 {
+	display:  flex;
+	justify-content: center;
+}
+
+.main-menu > ul {
+	display:  flex;
+	justify-content: flex-start;
+}
+
+.side-menu {
+	display:  flex;
+}
